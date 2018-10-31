@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">考勤记录</string>
+    <string name="getpass">计算密码</string>
+    <string name="resetpass">重置密码</string>
+    <string name="InputNum">请输入数字！</string>
+    <string name="testclickbt">1234</string>
+    <string name="MTitle">密码计算器</string>
+    <string name="markTime">记录此次打卡</string>
+    <string name="InputTime">请输入屏幕时间</string>
+</resources>
